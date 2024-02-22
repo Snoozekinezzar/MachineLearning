@@ -1,7 +1,9 @@
 # MachineLearning
 This is a repo containing old and new scripts related to projects done with Machine Learning
 
-## ML-Tkinter
+<br>
+
+## TkinterMachineLearningGUI.py
 A small program in Python TKinter containing various Machine Learning utilities.
 
 Although functional -this GUI is still a work in progress and some of the features is still missing.
